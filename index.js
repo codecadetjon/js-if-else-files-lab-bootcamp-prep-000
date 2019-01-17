@@ -2,7 +2,7 @@ var name = "Joe"
 var height = "74"
 
 if (name === "Susan") {
-  console.log("This is correct.")
+  console.log("This name is correct.")
 } else {
   console.log("Expected name to be Susan.")
 }
